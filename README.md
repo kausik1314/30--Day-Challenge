@@ -1,0 +1,13 @@
+# 30 Days Java DSA Challenge
+
+Welcome to my **30-Day Java Data Structures and Algorithms Challenge**! Over the next 30 days, I will be solving at least 50 problems ranging from intermediate to advanced difficulty levels to build a clean and professional problem-solving portfolio.
+
+## Topics Covered
+Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion, Backtracking, Linked List, Trees, Graphs, Greedy, Dynamic Programming.
+
+## Progress Tracking
+
+| Day   | Problem            | Topic   | Status |
+| ----- | ------------------ | ------- | ------ |
+| Day 1 | Two Sum            | HashMap | ✅      |
+| Day 1 | Contains Duplicate | Hashing | ✅      |
