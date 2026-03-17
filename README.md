@@ -16,3 +16,5 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 3 | Buy and Sell Stock | Window  | ✅      |
 | Day 3 | Longest Substring  | Window  | ✅      |
 | Day 3 | Reverse Linked List| List    | ✅      |
+| Day 4 | Maximum Subarray   | Array   | ✅      |
+| Day 4 | Invert Binary Tree | Tree    | ✅      |
