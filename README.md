@@ -21,3 +21,5 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 5 | Merge Two Lists    | List    | ✅      |
 | Day 5 | Climbing Stairs    | DP      | ✅      |
 | Day 5 | Two Sum II         | 2 Pters | ✅      |
+| Day 6 | Number of Islands  | Graph   | ✅      |
+| Day 6 | Combination Sum    | Backtr. | ✅      |
