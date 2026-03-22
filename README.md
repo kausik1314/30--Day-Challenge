@@ -26,3 +26,5 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 7 | Container w/ Water | 2 Pters | ✅      |
 | Day 7 | Course Schedule    | Graph   | ✅      |
 | Day 7 | 3Sum               | Array   | ✅      |
+| Day 8 | Word Search        | Backtr. | ✅      |
+| Day 8 | Longest Palindrome | DP / Str| ✅      |
