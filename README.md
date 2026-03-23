@@ -28,3 +28,6 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 7 | 3Sum               | Array   | ✅      |
 | Day 8 | Word Search        | Backtr. | ✅      |
 | Day 8 | Longest Palindrome | DP / Str| ✅      |
+| Day 9 | LRU Cache          | Design  | ✅      |
+| Day 9 | Merge Intervals    | Array   | ✅      |
+| Day 9 | LCA of a BST       | Tree    | ✅      |
