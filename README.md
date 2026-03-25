@@ -31,3 +31,6 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 9 | LRU Cache          | Design  | ✅      |
 | Day 9 | Merge Intervals    | Array   | ✅      |
 | Day 9 | LCA of a BST       | Tree    | ✅      |
+| Day 10| Subsets            | Backtr. | ✅      |
+| Day 10| Valid Anagram      | String  | ✅      |
+| Day 10| Group Anagrams     | String  | ✅      |
