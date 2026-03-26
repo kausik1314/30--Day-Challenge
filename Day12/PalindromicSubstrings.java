@@ -1,0 +1,33 @@
+/*
+Problem: Palindromic Substrings
+Platform: LeetCode
+Topic: String / Dynamic Programming
+
+Approach:
+Expand around center for both odd-length and even-length palindromes.
+Count every valid expansion.
+
+Time Complexity: O(n^2)
+Space Complexity: O(1)
+*/
+
+class PalindromicSubstrings {
+    public int countSubstrings(String s) {
+        int count = 0;
+        for (int i = 0; i < s.length(); i++) {
+            count += expand(s, i, i);     // odd length
+            count += expand(s, i, i + 1); // even length
+        }
+        return count;
+    }
+    
+    private int expand(String s, int l, int r) {
+        int count = 0;
+        while (l >= 0 && r < s.length() && s.charAt(l) == s.charAt(r)) {
+            count++;
+            l--;
+            r++;
+        }
+        return count;
+    }
+}
