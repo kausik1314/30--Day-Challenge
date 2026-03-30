@@ -41,3 +41,5 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 12| Palindromic Subs   | DP / Str| ✅      |
 | Day 13| Longest Consec Seq | Array   | ✅      |
 | Day 13| Validate BST       | Tree    | ✅      |
+| Day 14| House Robber       | DP      | ✅      |
+| Day 14| Character Replacem.| Window  | ✅      |
