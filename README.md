@@ -45,3 +45,5 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 14| Character Replacem.| Window  | ✅      |
 | Day 15| Kth Largest Element| Heap    | ✅      |
 | Day 15| Non-overlap Interv.| Greedy  | ✅      |
+| Day 16| Reorder List       | List    | ✅      |
+| Day 16| Level Order Travers| Tree    | ✅      |
