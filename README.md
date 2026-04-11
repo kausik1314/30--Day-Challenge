@@ -51,4 +51,7 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 17| Word Ladder        | Graph   | ✅      |
 | Day 18| Reverse String      | String  | ✅      |
 | Day 18| Pattern Printing    | Misc    | ✅      |
+| Day 19| Remove Nth From End | List    | ✅      |
+| Day 19| Find Duplicate      | Array   | ✅      |
+| Day 19| Spiral Matrix       | Array   | ✅      |
 
