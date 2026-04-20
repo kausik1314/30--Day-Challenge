@@ -62,4 +62,7 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 21| Number of 1 Bits    | Bit     | ✅      |
 | Day 21| Reverse Bits        | Bit     | ✅      |
 | Day 21| Counting Bits       | Bit/DP  | ✅      |
+| Day 22| Top K Frequent      | Heap    | ✅      |
+| Day 22| Construct Bin Tree  | Tree    | ✅      |
+| Day 22| Combination Sum II  | Backtr. | ✅      |
 
