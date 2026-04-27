@@ -75,6 +75,7 @@ Arrays, Strings, Hashing, Sliding Window, Stack, Queue, Binary Search, Recursion
 | Day 25| Decode Ways         | DP/Str  | ✅      |
 | Day 25| Lowest Common Ance. | Tree    | ✅      |
 | Day 25| Set Matrix Zeroes   | Matrix  | ✅      |
-| Day 26| Meeting Rooms       | Interval| ✅      |
-| Day 26| Meeting Rooms II    | Heap    | ✅      |
+| Day 26| Multiply Strings    | Math/Str| ✅      |
+| Day 26| Integer to Roman    | Math/Str| ✅      |
+| Day 26| Roman to Integer    | Math/Str| ✅      |
 
